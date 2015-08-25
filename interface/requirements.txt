@@ -1,0 +1,4 @@
+pycurl
+beautifulsoup4
+boto3
+
